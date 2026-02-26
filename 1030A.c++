@@ -10,6 +10,7 @@ int main(){
     cin >> a;
     if(a == 1){
       isEasy = false;
+      break;
     }
   }
   if(isEasy) cout << "easy";
