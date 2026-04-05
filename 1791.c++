@@ -46,4 +46,3 @@ int main(){
   }
   return 0;
 }
-made this code for 1791
